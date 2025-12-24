@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+env/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Vite
+/.vite
+
+# Editor
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ignore large model backups (do NOT ignore .pth if you want to track it with LFS)
+# *.pth
